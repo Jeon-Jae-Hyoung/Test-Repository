@@ -17,3 +17,6 @@ git push origin master
 git config --global user.email "이메일주소"
 
 git config --global user.name "이름" 을 입력하여 설정시켜줍니다.
+
+git rebase origin/master
+git merge origin/master 안되면 위에꺼
